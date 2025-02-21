@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Engineer > </strong>Electrical | Mechanical | Mechatronics & Robotics<br><strong>Dessert Connoisseur</strong>🍦(Self proclaimed)
+subtitle: <strong>Doctor of Philosophy > </strong> Economics | Management | Consultancy <br><strong>Dessert Connoisseur</strong>🍦(Self proclaimed)
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D.</p>
-    <p>New York University</p>
-    <p>New York City, USA</p>
+    <p>University of Brunei Darussalam</p>
+    <p>Bandar Seri Begawan, Brunei Darussalam</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,6 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi and welcome to my website! :wave:
 
-I'm a **Research Scientist** at the [Mechatronics, Controls, and Robotics Lab](http://mechatronics.engineering.nyu.edu/) at NYU Tandon School of Engineering, specializing in digital health, ambient assistive technology, and telerehabilitation, particularly for the geriatric population. My research leverages connected and wearable devices, alongside commercially available technologies, to improve healthcare outcomes. My work spans robotics, mechatronics, wireless networks, augmented/virtual reality, computer vision, audio, and deep learning, with contributions to research in stroke and lymphedema rehabilitation.
+Welcome to the official website of Dr Muhammad Zahid Naeem, an academic, researcher, and consultant dedicated to bridging the gap between education, research, and industry. With a PhD in Economics from the University of Brunei Darussalam and over a decade of experience in academia and consultancy, I am committed to fostering innovative learning, producing impactful research, and offering expert advisory services.
 
-With a strong background in robotics, electrical, mechanical, and mechatronics engineering, I specialize in collecting data from human subjects under IRB protocols, analyzing that data, training deep learning models, and designing wearable sensors. My experience includes designing and developing wearable inertial sensors for motion capture, developing control systems for robotic manipulators, and implementing computer vision and audio analysis for human-robot interaction. Sometimes, I also design and fabricate robotic systems for theatrical productions :performing_arts:, and build hexapods :octopus:, which is a lot of fun!
+My academic journey has taken me through esteemed institutions where I have served as an Assistant Professor, Program Coordinator, and research supervisor. My work revolves around economic analysis, financial policy, sustainable development, and the intersection of education and industry. I strongly believe that learning should be dynamic, research should be actionable, and academia must stay connected to real-world challenges.
+
+Through this platform, I aim to share my research contributions, insights on emerging trends, and professional services tailored to individuals, businesses, and academic institutions. Whether you are a student, researcher, or industry professional, I invite you to explore my work and collaborate in shaping meaningful solutions for today’s global challenges.
